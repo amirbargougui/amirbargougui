@@ -37,14 +37,6 @@ Passionate about Artificial Intelligence, Data Engineering, and Cloud technologi
 ### 🔗 Backend
 ![REST API](https://img.shields.io/badge/REST-API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=amirbargougui&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirbargougui&layout=compact&theme=tokyonight" height="180"/>
-</p>
 
 ---
 
@@ -59,12 +51,6 @@ Passionate about Artificial Intelligence, Data Engineering, and Cloud technologi
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirbargougui&theme=react-dark" />
 </p>
-
----
-
-## 📫 Connect with Me
-- 💼 LinkedIn: https://linkedin.com
-- 🐙 GitHub: https://github.com/amirbargougui
 
 ---
 
