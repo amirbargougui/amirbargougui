@@ -3,20 +3,19 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mohamed%20Amir%20Bargougui&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">🤖 AI • 📊 Data • ☁️ Cloud Engineering Student</h3>
+<h3 align="center">🤖 AI • 📊 Data Engineering Student</h3>
 
 <p align="center">
-Passionate about Artificial Intelligence, Data Engineering, and Cloud technologies.
-</p>
+Passionate about Artificial Intelligence, Machine Learning, and Data-driven applications.</p>
 
 ---
 
 ## 🧠 About Me
-- 🧠 Focused on AI-powered applications
-- 📊 Data analysis & visualization enthusiast
+- 🤖 Focused on AI-powered applications
+- 📊 Passionate about data analysis & visualization
+- 🧠 Exploring Machine Learning & intelligent systems
 - 🔗 Building REST APIs & backend systems
-- 🔄 Learning DevOps & CI/CD pipelines
-- ☁️ Exploring Cloud-native engineering
+- 🚀 Continuously learning and improving through projects
 
 ---
 
@@ -30,9 +29,6 @@ Passionate about Artificial Intelligence, Data Engineering, and Cloud technologi
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
 ![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
-### ☁️ DevOps & Cloud
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 
 ### 🔗 Backend
 ![REST API](https://img.shields.io/badge/REST-API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
