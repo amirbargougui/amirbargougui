@@ -65,7 +65,6 @@ Passionate about Artificial Intelligence, Data Engineering, and Cloud technologi
 ## 📫 Connect with Me
 - 💼 LinkedIn: https://linkedin.com
 - 🐙 GitHub: https://github.com/amirbargougui
-- 📧 Email: your.email@example.com
 
 ---
 
