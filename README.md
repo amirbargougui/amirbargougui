@@ -1,16 +1,74 @@
-## Hi there 👋
+<!-- 🟦 BANNER -->
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mohamed%20Amir%20Bargougui&fontSize=40&fontColor=ffffff&animation=fadeIn" />
+</p>
 
-<!--
-**amirbargougui/amirbargougui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">🤖 AI • 📊 Data • ☁️ Cloud Engineering Student</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+Passionate about Artificial Intelligence, Data Engineering, and Cloud technologies.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 About Me
+- 🧠 Focused on AI-powered applications
+- 📊 Data analysis & visualization enthusiast
+- 🔗 Building REST APIs & backend systems
+- 🔄 Learning DevOps & CI/CD pipelines
+- ☁️ Exploring Cloud-native engineering
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages & Core
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### 📊 Data & AI
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+
+### ☁️ DevOps & Cloud
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+### 🔗 Backend
+![REST API](https://img.shields.io/badge/REST-API-000000?style=for-the-badge&logo=fastapi&logoColor=white)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=amirbargougui&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amirbargougui&layout=compact&theme=tokyonight" height="180"/>
+</p>
+
+---
+
+## 🔥 GitHub Streak
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirbargougui&theme=tokyonight" />
+</p>
+
+---
+
+## 📈 Activity Graph
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amirbargougui&theme=react-dark" />
+</p>
+
+---
+
+## 📫 Connect with Me
+- 💼 LinkedIn: https://linkedin.com
+- 🐙 GitHub: https://github.com/amirbargougui
+- 📧 Email: your.email@example.com
+
+---
+
+<p align="center">
+  ⭐ Always learning, building, and improving.
+</p>
