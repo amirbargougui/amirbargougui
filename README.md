@@ -1,16 +1,17 @@
-## Hi there 👋
+# Mohamed Amir Bargougui
 
-<!--
-**amirbargougui/amirbargougui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+AI • Data • Cloud Engineering Student
 
-Here are some ideas to get you started:
+Passionate about Artificial Intelligence, Data Engineering and Cloud technologies.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Technologies
+Python • Pandas • Scikit-learn • Docker • REST APIs • GitHub Actions • Linux
+
+## Interests
+AI Engineering • Data Analytics • Cloud • Automation
+
+## Current Focus
+- AI-powered applications
+- Data analysis & visualization
+- REST APIs & backend systems
+- CI/CD and DevOps fundamentals
