@@ -84,7 +84,7 @@ Sustainability platform for recycling management and donation tracking.
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirbargougui&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=amirbargougui&theme=tokyonight&hide_border=true&cache_seconds=1800" />
 </p>
 
 ---
