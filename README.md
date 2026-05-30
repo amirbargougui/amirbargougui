@@ -4,7 +4,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,100:2c5364&height=200&section=header&text=Mohamed%20Amir%20Bargougui&fontSize=40&fontColor=ffffff&animation=fadeIn" />
 </p>
 
-<h3 align="center">🤖 AI & Data Engineering Student | Software & Data Enthusiast</h3>
+<h3 align="center">🤖 AI & Data Engineering Student </h3>
 
 <p align="center">
 Passionate about Artificial Intelligence, Data Engineering
