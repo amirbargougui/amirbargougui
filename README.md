@@ -7,8 +7,7 @@
 <h3 align="center">🤖 AI & Data Engineering Student | Software & Data Enthusiast</h3>
 
 <p align="center">
-Passionate about Artificial Intelligence, Data Engineering, Software Development, and building real-world applications.
-</p>
+Passionate about Artificial Intelligence, Data Engineering
 
 ---
 
